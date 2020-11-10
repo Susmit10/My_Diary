@@ -1,4 +1,4 @@
-# My_Diary
+# My Diary
 An Android App to save your personal notes with total security. It's your mini digital diary.
 
 # Advantages
