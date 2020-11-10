@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Diary</string>
+    <string name="_0_notes">0 notes</string>
+    <string name="button">Button</string>
+    <string name="submit">Submit</string>
+    <string name="enter_notes_here">Enter Notes Here</string>
+</resources>

@@ -1,0 +1,26 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.MyDiary" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">#039BE5</item>
+        <item name="colorPrimaryVariant">#1E88E5</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">#EC6F1B</item>
+        <item name="colorSecondaryVariant">#FBA01B</item>
+        <item name="colorOnSecondary">@color/white</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
+        <!-- Customize your theme here. -->
+
+        <!-- Colour of the texts -->
+        <item name="android:textColor">@color/black</item>
+
+        <!-- Colour of your icons in the App -->
+        <item name="tint">@color/black</item>
+
+        <!-- Background of your App -->
+        <item name="android:background">@color/white</item>
+
+    </style>
+</resources>
